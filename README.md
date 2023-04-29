@@ -23,11 +23,10 @@ Link do website: <a href="https://painel-de-dashboard.vercel.app/">Admin Dashboa
 
 <p align="justify">
 <h4>Português: </h4>
-<p>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX - UUUUUUUUUUUUUUUUUUUUUUUUU</p>
+<p>Desenvolvi uma página de um painel de responsivo, utilizando HTML5, CSS3 e JavaScript. Os gráficos foram construídos usando o ApexCharts 3.</p>
 
 <h4>English: </h4>
-<p>I developed a game Ping-Pong using HTML, CSS and JavaScript to apply logic programing I'm studying. 
-I implemented concepts de Object Oriented Programming, decision structure, operators relational and logical. </p>
+<p>I developed a page of a responsive panel, using HTML5, CSS3 and JavaScript. Charts were built using ApexCharts 3. </p>
 
 </p>
 
